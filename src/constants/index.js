@@ -117,8 +117,8 @@ const experiences = [
   },
   {
     title: "Computer Vison DOMAIN Head",
-    company_name: "NECT_GEN_AI",
-    icon: tesla,
+    company_name: "NEXT_GEN_AI",
+    icon: "https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/05/2-2.png",
     iconBg: "#E6DEDD",
     date: "June 2022 - Feb 2023",
     points: [
