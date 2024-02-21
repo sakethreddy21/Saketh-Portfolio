@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Computer Vison DOMAIN Head",
     company_name: "NEXT_GEN_AI",
-    icon: "https://d23qowwaqkh3fj.cloudfront.net/wp-content/uploads/2022/05/2-2.png",
+    icon: "https://media.licdn.com/dms/image/C5603AQFxof-CKeHAAQ/profile-displayphoto-shrink_800_800/0/1662995855341?e=2147483647&v=beta&t=QHAv9MLw1RSzWtu1FisLzLIfwUek58LyStwXcwuvTq4",
     iconBg: "#E6DEDD",
     date: "June 2022 - Feb 2023",
     points: [
