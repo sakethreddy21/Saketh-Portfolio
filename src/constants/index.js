@@ -52,7 +52,6 @@ const services = [
     title: "ML Enthusaist",
     icon: creator,
   },
-  
 ];
 
 const technologies = [
