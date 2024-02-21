@@ -50,8 +50,9 @@ const services = [
   },
   {
     title: "ML Enthusaist",
-    icon: "https://png.pngtree.com/png-vector/20190726/ourmid/pngtree-chess-icon-for-your-project-png-image_1597858.jpg",
+    icon: creator,
   },
+  
 ];
 
 const technologies = [
